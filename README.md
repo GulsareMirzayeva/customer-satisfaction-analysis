@@ -54,3 +54,16 @@ The code will print key statistics and generate two image files (`.png`) showing
 
 This project is built using simulated data to demonstrate core statistical thinking.  
 In a real-world scenario, this logic can be applied to actual customer feedback to detect early warning signals.
+
+
+---
+
+## 👩‍💻 About Me
+
+I'm **Gülsarə Mirzəyeva**, transitioning into the field of data analytics and statistics.  
+Through hands-on projects like this one, I aim to deepen my understanding of data interpretation, model evaluation, and visual storytelling using Python.
+
+This project was created as part of my early exploration into applied statistics and aims to reflect both my learning journey and analytical thinking.
+
+📫 [LinkedIn Profile](https://www.linkedin.com/in/gulsara-mirzayeva-298a3b359/)  
+📧 Email: mirzayevagulsare@gmail.com
